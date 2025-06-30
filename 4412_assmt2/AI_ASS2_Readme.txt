@@ -1,6 +1,3 @@
-##Student Information
-Name: Venkata Harshitha Bathala
-UTA ID: 1002204412
 
 
 ##Programming Language
